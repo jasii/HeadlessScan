@@ -1,0 +1,13 @@
+{
+  "_comment": "HeadlessScan default settings. All values here pre-fill the UI on startup.",
+
+  "format": "pdf",
+  "timeout": 10,
+  "dpi": 300,
+  "duplex": false,
+  "blank_page_skip": false,
+  "output_dir": "",
+  "webhook_url": "",
+
+  "autostart_autoscan": false
+}
